@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV76033DBZT
+D IC REG LINEAR 3.3V 250MA SOT23-3
+K MCP1700T3302ETTCT-ND
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011779
+$ENDCMP
+#
+#End Doc Library

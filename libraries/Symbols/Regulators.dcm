@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT6215E
+D Buck Regulator 24Vin, 2A,2A, 24V, 500kHz, ACOTTM Step-Down Converter
+F F:/Users data/Orlando/OneDrive/Documents/kicad/Orlando_Libraries/Datasheet/Richtek Reg DS6215E-00.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NRS8040T220MJGJ
+D 22uH, Idc 2.2A, Rdc 66mOhm
+F F:/Users data/Orlando/OneDrive/Documents/kicad/Orlando_Libraries/Datasheet/Taiyo IND NRS8040T220MJGJ_SS.pdf
+$ENDCMP
+#
+$CMP NS10165T220MNA
+D 22uH, Idc 3.41A, Isat 3.6A, Rdc 31mOhm, Shielded
+F F:/Users data/Orlando/OneDrive/Documents/kicad/Orlando_Libraries/Datasheet/Taiyo IND NS10165T220MNA.pdf
+$ENDCMP
+#
+#End Doc Library

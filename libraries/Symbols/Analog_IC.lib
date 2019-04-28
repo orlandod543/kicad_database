@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# HT0740
+#
+DEF HT0740 U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "HT0740" 0 0 50 H V C CNN
+F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" -100 -100 50 H I C CNN
+F3 "F:/Users data/Orlando/OneDrive/Documents/kicad/Orlando_Libraries/Datasheet/Microchip Mosfet Driver HT0740.pdf" 0 0 50 H I C CNN
+F4 "Microchip" 100 100 50 H I C CNN "MFN"
+F5 "HT0740LG-G" 200 200 50 H I C CNN "MFP"
+F6 "5V 500uA logic, 400V output tolerant " 300 300 50 H I C CNN "Characteristics"
+F7 "High-Voltage Isolated MOSFET Driver " 400 400 50 H I C CNN "Description"
+F8 "2857539" 700 700 50 H I C CNN "Farnell Code"
+DRAW
+S -350 -400 350 350 0 1 0 f
+X Vin 1 -550 250 200 R 50 50 1 1 I
+X VOUT- 3 550 -300 200 L 50 50 1 1 O
+X VOUT+ 4 550 250 200 L 50 50 1 1 O
+X GND 7 -550 -300 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
